@@ -1,3 +1,4 @@
+# Mouad Garroud
 import socket
 def scan_ports(target, start_port, end_port):
     print(f"Scanning {target} from port {start_port} to {end_port}...")
