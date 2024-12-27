@@ -1,3 +1,4 @@
+# Mouad Garroud
 import requests
 def shorten_url(long_url):
     api_url = f"http://tinyurl.com/api-create.php?url={long_url}"
