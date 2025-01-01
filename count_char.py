@@ -1,5 +1,5 @@
+# Mouad Garroud
 from collections import Counter
-
 input_string = input("Enter a string: ")
 char_count = Counter(input_string)
 print("Character frequencies:")
